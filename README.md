@@ -43,5 +43,11 @@ meal-scheduler
 3. **Install dependencies**
 
     ```bash
-    pip install -r requirements.txt
+    pip install --user -r requirements.txt
+    ```
+
+4. **Processed Data**
+
+    ```bash
+    python main.py
     ```

@@ -1,100 +1,87 @@
 import pandas as pd
-import numpy as np
-import re
 import json
 from typing import List, Dict, Any
-import os
 
-# Function to estimate the meal type based on food name and nutritional content
 def estimate_meal_type(name: str, calories: float, carbs: float) -> str:
     name_lower = name.lower()
     
-    # Breakfast indicators
-    breakfast_keywords = ['sarapan', 'bubur', 'sereal', 'roti', 'pancake', 'waffle', 'telur dadar']
+    # Sarapan: Makanan ringan atau khas pagi hari
+    breakfast_keywords = [
+        'sarapan', 'bubur', 'sereal', 'roti', 'pancake', 
+        'waffle', 'telur', 'oatmeal', 'yogurt', 'smoothie',
+        'buah', 'jus', 'susu', 'kopi', 'teh'
+    ]
     
-    # Lunch/Dinner indicators
-    main_meal_keywords = ['nasi', 'mie', 'pasta', 'ayam', 'daging', 'ikan', 'sup', 'soto', 'gulai']
+    # Makan Siang: Makanan utama dengan kalori sedang
+    lunch_keywords = [
+        'nasi', 'ayam', 'daging', 'ikan', 'sup', 'soto',
+        'gado-gado', 'pecel', 'rawon', 'bakso', 'mie', 'sate',
+        'tumis', 'capcai', 'sayur', 'gado', 'pecel'
+    ]
     
-    # Snack indicators
-    snack_keywords = ['kue', 'biskuit', 'keripik', 'kerupuk', 'camilan', 'gorengan', 'kacang']
+    # Makan Malam: Makanan berat atau tinggi kalori
+    dinner_keywords = [
+        'steak', 'rendang', 'gulai', 'kambing', 'bebek',
+        'sop buntut', 'iga bakar', 'martabak', 'pasta',
+        'lasagna', 'pizza', 'kari'
+    ]
     
-    # Check keywords
-    if any(keyword in name_lower for keyword in breakfast_keywords):
+    # Kategori berdasarkan kalori
+    if any(keyword in name_lower for keyword in breakfast_keywords) or calories < 300:
         return "Sarapan"
-    elif any(keyword in name_lower for keyword in snack_keywords) or calories < 150:
-        return "Camilan"
-    elif any(keyword in name_lower for keyword in main_meal_keywords):
-        # Higher carbs often indicates more substantial meals
-        if carbs > 30:
-            return "Makan Utama"  # Can be used for lunch or dinner
-        else:
-            return "Makan Ringan"
+    elif any(keyword in name_lower for keyword in dinner_keywords) or calories > 600:
+        return "Makan Malam"
+    elif any(keyword in name_lower for keyword in lunch_keywords) or (300 <= calories <= 600 and carbs > 20):
+        return "Makan Siang"
     else:
-        # Default based on calories
-        if calories < 250:
-            return "Sarapan"
-        else:
-            return "Makan Utama"
+        # Default untuk makanan dengan kalori 300-600
+        return "Makan Siang"
 
-# Function to extract potential ingredients from food name
 def extract_ingredients(name: str) -> List[str]:
     name_lower = name.lower()
     
-    # Common Indonesian food ingredients dictionary
     ingredient_dict = {
-        'nasi': ['beras'],
-        'goreng': ['minyak'],
-        'bakar': ['bumbu'],
-        'ayam': ['ayam'],
-        'ikan': ['ikan'],
-        'telur': ['telur'],
-        'tahu': ['tahu', 'kedelai'],
-        'tempe': ['tempe', 'kedelai'],
-        'udang': ['udang', 'seafood'],
-        'sapi': ['daging sapi'],
-        'kambing': ['daging kambing'],
-        'sayur': ['sayuran'],
-        'kacang': ['kacang'],
-        'pedas': ['cabai', 'lada'],
-        'manis': ['gula'],
-        'asin': ['garam'],
-        'santan': ['santan', 'kelapa'],
-        'bawang': ['bawang'],
-        'mie': ['tepung'],
-        'roti': ['tepung', 'ragi'],
-        'keju': ['keju', 'susu'],
-        'susu': ['susu'],
-        'buah': ['buah'],
-        'sayuran': ['sayuran'],
-        'kangkung': ['kangkung', 'sayuran'],
-        'bayam': ['bayam', 'sayuran'],
-        'wortel': ['wortel', 'sayuran'],
-        'kentang': ['kentang'],
-        'jagung': ['jagung'],
-        'kecap': ['kecap'],
-        'terasi': ['terasi', 'udang'],
-        'seafood': ['seafood'],
+        # Buah-buahan
+        'apel': ['buah'], 'pisang': ['buah'], 'jeruk': ['buah'],
+        'mangga': ['buah'], 'anggur': ['buah'], 'pepaya': ['buah'],
+        'semangka': ['buah'], 'melon': ['buah'], 'nanas': ['buah'],
+        'stroberi': ['buah'], 'buah': ['buah'], 'alpukat': ['buah'],
+        
+        # Protein
+        'ayam': ['ayam', 'bumbu'], 'sapi': ['daging sapi', 'bumbu'], 'babi': ['babi', 'bumbu'],
+        'ikan': ['ikan', 'bumbu'], 'udang': ['udang', 'bumbu'], 'telur': ['telur', 'bumbu'],
+        'bebek': ['bebek', 'bumbu'], 'kambing': ['kambing', 'bumbu'], 'burung': ['burung', 'bumbu'],
+        'domba': ['domba', 'bumbu'], 'angsa': ['angsa', 'bumbu'], 'belibing': ['belibing', 'bumbu'],
+        'kerang': ['kerang', 'bumbu'], 'cumi': ['cumi', 'bumbu'], 'kepiting': ['kepiting', 'bumbu'],
+        
+        
+        # Sayuran
+        'sayur': ['sayuran'], 'kangkung': ['kangkung'],
+        'bayam': ['bayam'], 'wortel': ['wortel'], 'brokoli': ['brokoli'],
+        
+        # Karbohidrat
+        'nasi': ['beras'], 'mie': ['tepung terigu'],
+        'roti': ['tepung terigu'], 'kentang': ['kentang'], 'jagung': ['jagung']
     }
     
     ingredients = []
     
-    # Extract ingredients based on keywords in name
-    for keyword, related_ingredients in ingredient_dict.items():
+    # Mencocokkan bahan dari nama makanan
+    for keyword, items in ingredient_dict.items():
         if keyword in name_lower:
-            for ingredient in related_ingredients:
-                if ingredient not in ingredients:
-                    ingredients.append(ingredient)
+            ingredients.extend(items)
     
-    # Add default ingredients if none are detected
-    if not ingredients:
-        ingredients = ['bahan utama', 'bumbu']
-    
-    return ingredients
+    # Menghapus duplikat dan mengembalikan
+    return list(set(ingredients)) or ['bahan utama', 'bumbu']
 
 # Function to generate tags based on name and nutrition information
 def generate_tags(name: str, calories: float, protein: float, fat: float, carbs: float) -> List[str]:
     name_lower = name.lower()
     tags = []
+
+    snack_keywords = ['kue', 'biskuit', 'keripik', 'kerupuk', 'camilan']
+    if any(keyword in name_lower for keyword in snack_keywords):
+        tags.append('camilan')
     
     # Method of cooking
     cooking_methods = {
@@ -262,8 +249,6 @@ if __name__ == "__main__":
     
     sample_data = process_nutrition_data(input_csv, output_json)
     
-    # Print sample of processed data
     if sample_data:
-        print("Sample of processed data:")
-        for item in sample_data:
-            print(json.dumps(item, ensure_ascii=False, indent=2))
+        print("Contoh struktur akhir:")
+        print(json.dumps(sample_data[:3], indent=2, ensure_ascii=False))
