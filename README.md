@@ -1,5 +1,13 @@
 # meal-scheduler
 
+> ⚠️ **This project requires Python 3.12.**
+>
+> Please make sure you have Python 3.12 installed before setting up the environment.
+> You can check your version with:
+> ```bash
+> python --version
+> ```
+
 ## Project Structure
 ```
 meal-scheduler

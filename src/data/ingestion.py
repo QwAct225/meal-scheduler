@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Path configuration
-RAW_DATA_PATH = r"C:/Users/MacBook/OneDrive/Dokumen/VS_Code/meal-scheduler/data/nutrition.csv"
+RAW_DATA_PATH = r"/meal-scheduler/data/raw/nutrition_raw.csv"
 RAW_SAVE_DIR = Path("data/raw/nutrition")
 PROFILE_REPORT_DIR = Path("reports")
 
