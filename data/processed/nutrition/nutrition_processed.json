@@ -102,7 +102,7 @@
     "carbs": 7.7,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "alpukat"
     ],
     "tags": [
       "rendah karbo",
@@ -199,8 +199,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -219,8 +219,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -239,8 +239,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -296,7 +296,7 @@
     "carbs": 6.8,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "anggur"
     ],
     "tags": [
       "rendah lemak",
@@ -350,7 +350,7 @@
     "carbs": 14.9,
     "fiber": 1.5,
     "ingredients": [
-      "buah"
+      "apel"
     ],
     "tags": [
       "rendah lemak",
@@ -367,7 +367,7 @@
     "carbs": 12.8,
     "fiber": 1.3,
     "ingredients": [
-      "buah"
+      "apel"
     ],
     "tags": [
       "rendah lemak",
@@ -961,8 +961,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -981,8 +981,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -1000,8 +1000,8 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -1020,8 +1020,8 @@
     "carbs": 1.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -1040,8 +1040,8 @@
     "carbs": 0.2,
     "fiber": 0.1,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "pedas",
@@ -1526,9 +1526,9 @@
     "carbs": 5.8,
     "fiber": 0.6,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "kukus",
@@ -1549,9 +1549,9 @@
     "carbs": 10.0,
     "fiber": 1.0,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -1570,9 +1570,9 @@
     "carbs": 6.3,
     "fiber": 0.6,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -1592,9 +1592,9 @@
     "carbs": 3.7,
     "fiber": 0.5,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "rebus",
@@ -1615,9 +1615,9 @@
     "carbs": 6.5,
     "fiber": 0.7,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -1637,9 +1637,9 @@
     "carbs": 6.9,
     "fiber": 0.7,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "tumis",
@@ -1659,9 +1659,9 @@
     "carbs": 2.6,
     "fiber": 0.5,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "tumis",
@@ -2864,7 +2864,7 @@
     "carbs": 11.6,
     "fiber": 1.2,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -2881,7 +2881,7 @@
     "carbs": 66.2,
     "fiber": 6.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -3462,7 +3462,7 @@
     "carbs": 8.1,
     "fiber": 0.8,
     "ingredients": [
-      "buah"
+      "pepaya"
     ],
     "tags": [
       "rendah lemak",
@@ -4104,8 +4104,8 @@
     "carbs": 1.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4203,8 +4203,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4243,8 +4243,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4263,8 +4263,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4282,8 +4282,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "domba"
+      "domba",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4301,8 +4301,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "kambing"
+      "kambing",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -4363,8 +4363,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -5441,7 +5441,7 @@
     "carbs": 11.9,
     "fiber": 1.2,
     "ingredients": [
-      "buah"
+      "pepaya"
     ],
     "tags": [
       "rendah lemak",
@@ -6012,8 +6012,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -6073,8 +6073,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -6241,8 +6241,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "domba"
+      "domba",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -6261,8 +6261,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "domba"
+      "domba",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -6280,8 +6280,8 @@
     "carbs": 1.0,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "domba"
+      "domba",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -7192,7 +7192,7 @@
     "carbs": 34.1,
     "fiber": 3.4,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -7228,8 +7228,8 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -7248,8 +7248,8 @@
     "carbs": 1.0,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "domba"
+      "domba",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -7268,8 +7268,8 @@
     "carbs": 0.9,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -7361,8 +7361,8 @@
     "carbs": 90.6,
     "fiber": 4.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7418,8 +7418,8 @@
     "carbs": 2.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7439,8 +7439,8 @@
     "carbs": 5.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7458,8 +7458,8 @@
     "carbs": 6.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "kambing"
+      "kambing",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -7623,8 +7623,8 @@
     "carbs": 1.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -7643,8 +7643,8 @@
     "carbs": 6.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -7699,8 +7699,8 @@
     "carbs": 5.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7719,8 +7719,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7741,8 +7741,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7764,8 +7764,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7786,8 +7786,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -7808,8 +7808,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7831,8 +7831,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7854,8 +7854,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7875,8 +7875,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -7898,8 +7898,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7918,8 +7918,8 @@
     "carbs": 1.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7939,8 +7939,8 @@
     "carbs": 3.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7960,8 +7960,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -7981,8 +7981,8 @@
     "carbs": 11.3,
     "fiber": 0.6,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8000,8 +8000,8 @@
     "carbs": 4.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8021,8 +8021,8 @@
     "carbs": 3.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8041,8 +8041,8 @@
     "carbs": 5.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "bakar",
@@ -8062,8 +8062,8 @@
     "carbs": 3.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8082,8 +8082,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8103,8 +8103,8 @@
     "carbs": 7.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8123,8 +8123,8 @@
     "carbs": 7.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "bakar",
@@ -8145,8 +8145,8 @@
     "carbs": 2.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8165,8 +8165,8 @@
     "carbs": 32.0,
     "fiber": 1.6,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -8187,8 +8187,8 @@
     "carbs": 10.9,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8206,8 +8206,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8226,8 +8226,8 @@
     "carbs": 2.1,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8246,8 +8246,8 @@
     "carbs": 6.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8266,8 +8266,8 @@
     "carbs": 4.9,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8286,8 +8286,8 @@
     "carbs": 5.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8307,8 +8307,8 @@
     "carbs": 1.9,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8326,8 +8326,8 @@
     "carbs": 5.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -8348,8 +8348,8 @@
     "carbs": 10.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8367,8 +8367,8 @@
     "carbs": 10.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8386,8 +8386,8 @@
     "carbs": 8.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8406,8 +8406,8 @@
     "carbs": 5.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8427,8 +8427,8 @@
     "carbs": 3.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8447,8 +8447,8 @@
     "carbs": 4.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8467,8 +8467,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8488,8 +8488,8 @@
     "carbs": 21.9,
     "fiber": 1.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8507,8 +8507,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8527,8 +8527,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8548,8 +8548,8 @@
     "carbs": 0.2,
     "fiber": 0.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -8569,8 +8569,8 @@
     "carbs": 6.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8589,8 +8589,8 @@
     "carbs": 20.2,
     "fiber": 1.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8608,8 +8608,8 @@
     "carbs": 2.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8628,8 +8628,8 @@
     "carbs": 1.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8650,8 +8650,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8671,8 +8671,8 @@
     "carbs": 6.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8691,8 +8691,8 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8711,8 +8711,8 @@
     "carbs": 0.3,
     "fiber": 0.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -8733,8 +8733,8 @@
     "carbs": 5.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8753,8 +8753,8 @@
     "carbs": 0.4,
     "fiber": 0.2,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8773,8 +8773,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8794,8 +8794,8 @@
     "carbs": 5.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8814,8 +8814,8 @@
     "carbs": 5.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "bakar",
@@ -8835,8 +8835,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8856,8 +8856,8 @@
     "carbs": 0.4,
     "fiber": 0.2,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8877,8 +8877,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8898,8 +8898,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -8919,8 +8919,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8940,8 +8940,8 @@
     "carbs": 2.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -8961,8 +8961,8 @@
     "carbs": 18.9,
     "fiber": 0.9,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -8981,8 +8981,8 @@
     "carbs": 0.9,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9002,8 +9002,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9023,8 +9023,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -9044,8 +9044,8 @@
     "carbs": 11.8,
     "fiber": 0.6,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9062,8 +9062,8 @@
     "carbs": 0.4,
     "fiber": 0.2,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9083,8 +9083,8 @@
     "carbs": 9.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -9105,8 +9105,8 @@
     "carbs": 37.2,
     "fiber": 1.9,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9126,8 +9126,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -9148,8 +9148,8 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9169,8 +9169,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9190,8 +9190,8 @@
     "carbs": 10.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9209,8 +9209,8 @@
     "carbs": 2.2,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9230,8 +9230,8 @@
     "carbs": 6.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "bakar",
@@ -9251,8 +9251,8 @@
     "carbs": 4.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9271,8 +9271,8 @@
     "carbs": 4.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "bakar",
@@ -9292,8 +9292,8 @@
     "carbs": 1.1,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9312,8 +9312,8 @@
     "carbs": 2.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9333,8 +9333,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9354,8 +9354,8 @@
     "carbs": 1.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9375,8 +9375,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9396,8 +9396,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9417,8 +9417,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9438,8 +9438,8 @@
     "carbs": 2.9,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9459,8 +9459,8 @@
     "carbs": 4.9,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9480,8 +9480,8 @@
     "carbs": 14.6,
     "fiber": 0.7,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9498,8 +9498,8 @@
     "carbs": 3.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9518,8 +9518,8 @@
     "carbs": 20.7,
     "fiber": 1.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9536,8 +9536,8 @@
     "carbs": 3.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9557,8 +9557,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9578,8 +9578,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9599,8 +9599,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9620,8 +9620,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9641,8 +9641,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9660,8 +9660,8 @@
     "carbs": 4.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9681,8 +9681,8 @@
     "carbs": 3.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9701,8 +9701,8 @@
     "carbs": 7.1,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -9723,8 +9723,8 @@
     "carbs": 6.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9743,8 +9743,8 @@
     "carbs": 4.1,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9765,8 +9765,8 @@
     "carbs": 2.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9786,8 +9786,8 @@
     "carbs": 6.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9807,9 +9807,9 @@
     "carbs": 9.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
       "ikan",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "asin",
@@ -9829,8 +9829,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9848,8 +9848,8 @@
     "carbs": 1.0,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9869,8 +9869,8 @@
     "carbs": 22.4,
     "fiber": 1.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9887,8 +9887,8 @@
     "carbs": 1.0,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9908,8 +9908,8 @@
     "carbs": 1.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9928,8 +9928,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9949,8 +9949,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -9969,8 +9969,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
       "ikan",
+      "bumbu",
       "beras"
     ],
     "tags": [
@@ -9991,8 +9991,8 @@
     "carbs": 4.1,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -10011,8 +10011,8 @@
     "carbs": 19.6,
     "fiber": 1.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -10029,8 +10029,8 @@
     "carbs": 2.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -10050,8 +10050,8 @@
     "carbs": 8.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -10070,8 +10070,8 @@
     "carbs": 0.2,
     "fiber": 0.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -10481,8 +10481,8 @@
     "carbs": 20.1,
     "fiber": 2.0,
     "ingredients": [
-      "sayuran",
-      "jagung"
+      "jagung",
+      "sayuran"
     ],
     "tags": [
       "tumis",
@@ -10866,7 +10866,7 @@
     "carbs": 7.1,
     "fiber": 0.7,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -10978,7 +10978,7 @@
     "carbs": 12.4,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -10997,7 +10997,7 @@
     "carbs": 14.1,
     "fiber": 0.7,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -11014,7 +11014,7 @@
     "carbs": 10.9,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -11031,7 +11031,7 @@
     "carbs": 8.9,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -11049,7 +11049,7 @@
     "carbs": 11.2,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "manis",
@@ -11067,7 +11067,7 @@
     "carbs": 12.3,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -11084,7 +11084,7 @@
     "carbs": 11.1,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "jeruk"
     ],
     "tags": [
       "rendah lemak",
@@ -11255,8 +11255,8 @@
     "carbs": 51.3,
     "fiber": 5.1,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "nabati",
@@ -12529,8 +12529,8 @@
     "carbs": 124.8,
     "fiber": 12.5,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "nabati",
@@ -12837,8 +12837,8 @@
     "carbs": 9.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "rendah karbo",
@@ -12855,8 +12855,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "kambing"
+      "kambing",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -13712,8 +13712,8 @@
     "carbs": 14.1,
     "fiber": 0.7,
     "ingredients": [
-      "bumbu",
-      "kepiting"
+      "kepiting",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -13731,8 +13731,8 @@
     "carbs": 3.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "kerang"
+      "kerang",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -13752,8 +13752,8 @@
     "carbs": 29.4,
     "fiber": 1.5,
     "ingredients": [
-      "bumbu",
-      "kerang"
+      "kerang",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -13770,8 +13770,8 @@
     "carbs": 25.6,
     "fiber": 1.3,
     "ingredients": [
-      "bumbu",
-      "kerang"
+      "kerang",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -13846,9 +13846,9 @@
     "carbs": 50.2,
     "fiber": 5.0,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "camilan",
@@ -14050,8 +14050,8 @@
     "carbs": 40.2,
     "fiber": 2.0,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "camilan",
@@ -14151,8 +14151,8 @@
     "carbs": 65.6,
     "fiber": 3.3,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "camilan",
@@ -14172,8 +14172,8 @@
     "carbs": 78.5,
     "fiber": 3.9,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "camilan",
@@ -14379,8 +14379,8 @@
     "carbs": 52.0,
     "fiber": 2.6,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "camilan",
@@ -14400,8 +14400,8 @@
     "carbs": 332.0,
     "fiber": 16.6,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "camilan",
@@ -14421,8 +14421,8 @@
     "carbs": 68.5,
     "fiber": 3.4,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "camilan",
@@ -15932,8 +15932,8 @@
     "carbs": 3.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -16006,7 +16006,7 @@
     "carbs": 84.9,
     "fiber": 8.5,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "tinggi karbo",
@@ -16043,8 +16043,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "tinggi lemak",
@@ -16062,8 +16062,8 @@
     "carbs": 1.1,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "tinggi lemak",
@@ -16081,8 +16081,8 @@
     "carbs": 14.4,
     "fiber": 0.7,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -16468,7 +16468,7 @@
     "carbs": 12.4,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16485,7 +16485,7 @@
     "carbs": 11.2,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16502,7 +16502,7 @@
     "carbs": 16.7,
     "fiber": 0.8,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16519,7 +16519,7 @@
     "carbs": 11.9,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "manis",
@@ -16537,7 +16537,7 @@
     "carbs": 18.7,
     "fiber": 0.9,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16554,7 +16554,7 @@
     "carbs": 14.6,
     "fiber": 0.7,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16571,7 +16571,7 @@
     "carbs": 19.8,
     "fiber": 1.0,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16588,7 +16588,7 @@
     "carbs": 32.1,
     "fiber": 1.6,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16606,7 +16606,7 @@
     "carbs": 15.1,
     "fiber": 0.8,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16623,7 +16623,7 @@
     "carbs": 12.3,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "mangga"
     ],
     "tags": [
       "rendah lemak",
@@ -16784,8 +16784,8 @@
     "carbs": 29.5,
     "fiber": 1.5,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": []
   },
@@ -16870,7 +16870,7 @@
     "carbs": 7.8,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "melon"
     ],
     "tags": [
       "rendah lemak",
@@ -17036,9 +17036,9 @@
     "carbs": 10.5,
     "fiber": 0.5,
     "ingredients": [
+      "tepung terigu",
       "ayam",
-      "bumbu",
-      "tepung terigu"
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -17216,8 +17216,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -17444,8 +17444,8 @@
     "carbs": 5.1,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -17465,7 +17465,7 @@
     "carbs": 13.7,
     "fiber": 0.7,
     "ingredients": [
-      "buah"
+      "nanas"
     ],
     "tags": [
       "rendah lemak",
@@ -17482,7 +17482,7 @@
     "carbs": 13.3,
     "fiber": 0.7,
     "ingredients": [
-      "buah"
+      "nanas"
     ],
     "tags": [
       "rendah lemak",
@@ -18404,8 +18404,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18629,7 +18629,7 @@
     "carbs": 30.2,
     "fiber": 3.0,
     "ingredients": [
-      "buah"
+      "pepaya"
     ],
     "tags": [
       "tinggi karbo"
@@ -18645,7 +18645,7 @@
     "carbs": 4.9,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "pepaya"
     ],
     "tags": [
       "rendah lemak",
@@ -18663,7 +18663,7 @@
     "carbs": 12.2,
     "fiber": 1.2,
     "ingredients": [
-      "buah"
+      "pepaya"
     ],
     "tags": [
       "rendah kalori"
@@ -18753,8 +18753,8 @@
     "carbs": 24.0,
     "fiber": 1.2,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18773,8 +18773,8 @@
     "carbs": 40.0,
     "fiber": 2.0,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -18793,8 +18793,8 @@
     "carbs": 59.3,
     "fiber": 3.0,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -18813,8 +18813,8 @@
     "carbs": 38.0,
     "fiber": 1.9,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -18872,8 +18872,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18893,8 +18893,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18914,8 +18914,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18935,8 +18935,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -18974,7 +18974,7 @@
     "carbs": 25.8,
     "fiber": 2.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -18991,7 +18991,7 @@
     "carbs": 17.2,
     "fiber": 1.7,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19008,9 +19008,9 @@
     "carbs": 26.8,
     "fiber": 2.7,
     "ingredients": [
-      "buah",
+      "ayam",
       "bumbu",
-      "ayam"
+      "pisang"
     ],
     "tags": [
       "daging",
@@ -19028,7 +19028,7 @@
     "carbs": 31.1,
     "fiber": 3.1,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19046,7 +19046,7 @@
     "carbs": 6.3,
     "fiber": 0.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "goreng",
@@ -19064,7 +19064,7 @@
     "carbs": 27.9,
     "fiber": 2.8,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19081,7 +19081,7 @@
     "carbs": 28.9,
     "fiber": 2.9,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19098,7 +19098,7 @@
     "carbs": 23.6,
     "fiber": 2.4,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19115,7 +19115,7 @@
     "carbs": 26.3,
     "fiber": 2.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19132,7 +19132,7 @@
     "carbs": 34.5,
     "fiber": 3.5,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19150,7 +19150,7 @@
     "carbs": 22.5,
     "fiber": 2.2,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19167,7 +19167,7 @@
     "carbs": 25.6,
     "fiber": 2.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19184,7 +19184,7 @@
     "carbs": 33.6,
     "fiber": 3.4,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19202,7 +19202,7 @@
     "carbs": 31.8,
     "fiber": 3.2,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19222,7 +19222,7 @@
     "carbs": 35.5,
     "fiber": 3.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19240,7 +19240,7 @@
     "carbs": 31.8,
     "fiber": 3.2,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19258,7 +19258,7 @@
     "carbs": 31.1,
     "fiber": 3.1,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19276,7 +19276,7 @@
     "carbs": 20.5,
     "fiber": 2.1,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19293,7 +19293,7 @@
     "carbs": 8.1,
     "fiber": 0.8,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "goreng",
@@ -19312,7 +19312,7 @@
     "carbs": 26.7,
     "fiber": 2.7,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -19698,8 +19698,8 @@
     "carbs": 0.7,
     "fiber": 0.3,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -19738,8 +19738,8 @@
     "carbs": 0.7,
     "fiber": 0.3,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -19837,8 +19837,8 @@
     "carbs": 7.8,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20334,7 +20334,7 @@
     "carbs": 66.1,
     "fiber": 6.6,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -20423,8 +20423,8 @@
     "carbs": 59.3,
     "fiber": 3.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20442,8 +20442,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20463,8 +20463,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20483,8 +20483,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20502,8 +20502,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20522,8 +20522,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20542,8 +20542,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20562,8 +20562,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20581,8 +20581,8 @@
     "carbs": 2.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20601,8 +20601,8 @@
     "carbs": 1.4,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20620,8 +20620,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20641,8 +20641,8 @@
     "carbs": 0.9,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20661,8 +20661,8 @@
     "carbs": 3.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20681,8 +20681,8 @@
     "carbs": 0.2,
     "fiber": 0.1,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20701,8 +20701,8 @@
     "carbs": 6.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20722,8 +20722,8 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20741,8 +20741,8 @@
     "carbs": 19.2,
     "fiber": 1.0,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -20759,8 +20759,8 @@
     "carbs": 14.5,
     "fiber": 0.7,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "goreng",
@@ -20778,8 +20778,8 @@
     "carbs": 1.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -21137,7 +21137,7 @@
     "carbs": 9.8,
     "fiber": 1.0,
     "ingredients": [
-      "buah",
+      "pepaya",
       "sayuran"
     ],
     "tags": [
@@ -21381,7 +21381,7 @@
     "carbs": 6.9,
     "fiber": 0.5,
     "ingredients": [
-      "buah"
+      "semangka"
     ],
     "tags": [
       "rendah lemak",
@@ -21711,8 +21711,8 @@
     "carbs": 5.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -21731,8 +21731,8 @@
     "carbs": 3.7,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -21751,8 +21751,8 @@
     "carbs": 1.1,
     "fiber": 0.4,
     "ingredients": [
-      "bumbu",
-      "kambing"
+      "kambing",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -22230,8 +22230,8 @@
     "carbs": 6.6,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "kambing"
+      "kambing",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -22325,8 +22325,8 @@
     "carbs": 4.3,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -22533,8 +22533,8 @@
     "carbs": 24.6,
     "fiber": 1.2,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "nabati",
@@ -23039,8 +23039,8 @@
     "fiber": 0.3,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23059,8 +23059,8 @@
     "fiber": 0.3,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23080,8 +23080,8 @@
     "fiber": 0.3,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23101,8 +23101,8 @@
     "fiber": 0.5,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23122,8 +23122,8 @@
     "fiber": 0.5,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23143,8 +23143,8 @@
     "fiber": 0.5,
     "ingredients": [
       "ayam",
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "daging",
@@ -23162,9 +23162,9 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "protein tinggi",
@@ -23182,9 +23182,9 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "rendah lemak",
@@ -23202,9 +23202,9 @@
     "carbs": 0.8,
     "fiber": 0.3,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "rendah lemak",
@@ -23222,9 +23222,9 @@
     "carbs": 0.9,
     "fiber": 0.4,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "protein tinggi",
@@ -23242,9 +23242,9 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "protein tinggi",
@@ -23262,9 +23262,9 @@
     "carbs": 7.9,
     "fiber": 0.5,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "rendah karbo",
@@ -23281,9 +23281,9 @@
     "carbs": 1.4,
     "fiber": 0.5,
     "ingredients": [
+      "telur",
       "bumbu",
-      "bebek",
-      "telur"
+      "bebek"
     ],
     "tags": [
       "asin",
@@ -23301,9 +23301,9 @@
     "carbs": 1.6,
     "fiber": 0.5,
     "ingredients": [
+      "telur",
       "bumbu",
-      "burung",
-      "telur"
+      "burung"
     ],
     "tags": [
       "rendah karbo",
@@ -23320,8 +23320,8 @@
     "carbs": 0.0,
     "fiber": 0.0,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "rendah karbo",
@@ -23338,8 +23338,8 @@
     "carbs": 10.0,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "telur"
+      "telur",
+      "bumbu"
     ],
     "tags": [
       "protein tinggi",
@@ -23435,8 +23435,8 @@
     "carbs": 21.9,
     "fiber": 2.2,
     "ingredients": [
-      "bumbu",
-      "babi"
+      "babi",
+      "bumbu"
     ],
     "tags": [
       "nabati",
@@ -23806,8 +23806,8 @@
     "carbs": 22.4,
     "fiber": 1.1,
     "ingredients": [
-      "bumbu",
-      "ikan"
+      "ikan",
+      "bumbu"
     ],
     "tags": [
       "seafood",
@@ -23930,7 +23930,7 @@
     "carbs": 80.6,
     "fiber": 8.1,
     "ingredients": [
-      "buah"
+      "pisang"
     ],
     "tags": [
       "rendah lemak",
@@ -24799,9 +24799,9 @@
     "carbs": 2.6,
     "fiber": 0.5,
     "ingredients": [
+      "bayam",
       "ayam",
-      "bumbu",
-      "bayam"
+      "bumbu"
     ],
     "tags": [
       "tumis",
@@ -25064,8 +25064,8 @@
     "carbs": 1.2,
     "fiber": 0.5,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25084,8 +25084,8 @@
     "carbs": 3.0,
     "fiber": 0.5,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25105,8 +25105,8 @@
     "carbs": 1.8,
     "fiber": 0.5,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25125,8 +25125,8 @@
     "carbs": 2.2,
     "fiber": 0.5,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25145,8 +25145,8 @@
     "carbs": 12.5,
     "fiber": 0.6,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25164,8 +25164,8 @@
     "carbs": 0.1,
     "fiber": 0.0,
     "ingredients": [
-      "udang",
-      "bumbu"
+      "bumbu",
+      "udang"
     ],
     "tags": [
       "seafood",
@@ -25259,8 +25259,8 @@
     "carbs": 1.5,
     "fiber": 0.5,
     "ingredients": [
-      "bumbu",
-      "daging sapi"
+      "daging sapi",
+      "bumbu"
     ],
     "tags": [
       "daging",

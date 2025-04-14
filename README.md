@@ -10,12 +10,31 @@ meal-scheduler
 │   └── processed/
 │       └── nutrition/
 │           └── nutrition_clean.parquet
+│           └── nutrition_processed.json
+│           └── nutrition_convertion.csv
+│
+├── models/
+│   └── feature_nnatrix.pkl
+│   └── meal_data.csv
+│   └── scaler.pkl
+│   └── tfidf_vectorizer.pkl
+│
 ├── reports/
 │   └── nutrition_profile.html
+│   └── meal_schedule.html
+│
 ├── src/
 │   ├── data/
+│   │   ├── data_pipeline.py
 │   │   ├── ingestion.py
-│   └── └── preprocessing.py
+│   │   └── preprocessing.py
+│   ├── models/
+│   │   └── cbf/
+│   │       ├── feature_engineering.py
+│   │       ├── model.py
+│   │       └── recommender.py
+│   └── utils/
+│       └── scheduler.py
 │
 └── .gitignore
 └── main.py   
@@ -46,8 +65,11 @@ meal-scheduler
     pip install --user -r requirements.txt
     ```
 
-4. **Processed Data**
+4. **Training Model CBF**
 
     ```bash
-    python main.py
+    python main.py --train          # Train Model
+    python main.py --recommend 1    # Recommend Food By ID (CBF)
+    python main.py --schedule       # Scheduling Food
     ```
+
